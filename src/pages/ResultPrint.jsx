@@ -701,7 +701,7 @@ const ResultPrint = forwardRef(({ result }, ref) => {
             <strong>Father's Name: </strong>MUNNA KUMAR SINGH
           </h1>
           <h1 className="mb-1">
-            <strong>Mother's Name: </strong>KALPANA
+            <strong>Mother's Name: </strong>KALPANA SINGH
           </h1>
           <h1 className="mb-1">
             <strong>CGPA: </strong>8.91

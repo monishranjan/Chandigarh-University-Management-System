@@ -834,7 +834,7 @@ const Result = () => {
               <strong>Mother's Name: </strong>KALPANA SINGH
             </h1>
             <h1 className="mb-1">
-              <strong>CGPA: </strong>8.76
+              <strong>CGPA: </strong>8.91
             </h1>
           </div>
           <div className="flex flex-col items-center">
